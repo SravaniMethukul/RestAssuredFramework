@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-06-10T11:49:26 CEST" name="Default suite" finished-at="2025-06-10T11:49:29 CEST" duration-ms="2793">
+  <suite started-at="2025-06-11T14:03:58 CEST" name="Default suite" finished-at="2025-06-11T14:04:01 CEST" duration-ms="3065">
     <groups>
     </groups>
-    <test started-at="2025-06-10T11:49:26 CEST" name="Default test" finished-at="2025-06-10T11:49:29 CEST" duration-ms="2793">
-      <class name="com.api.tests.loginAPITest3">
-        <test-method signature="loginTest()[pri:0, instance:com.api.tests.loginAPITest3@515aebb0]" started-at="2025-06-10T11:49:26 CEST" name="loginTest" description="Verify if login Api is working correctly" finished-at="2025-06-10T11:49:29 CEST" duration-ms="2750" status="PASS">
+    <test started-at="2025-06-11T14:03:58 CEST" name="Default test" finished-at="2025-06-11T14:04:01 CEST" duration-ms="3065">
+      <class name="com.api.tests.GetProfileRequestTest">
+        <test-method signature="getProfileDetails()[pri:0, instance:com.api.tests.GetProfileRequestTest@515aebb0]" started-at="2025-06-11T14:03:58 CEST" name="getProfileDetails" description="Get User Profile Details" finished-at="2025-06-11T14:04:01 CEST" duration-ms="3020" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- loginTest -->
-      </class> <!-- com.api.tests.loginAPITest3 -->
+        </test-method> <!-- getProfileDetails -->
+      </class> <!-- com.api.tests.GetProfileRequestTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

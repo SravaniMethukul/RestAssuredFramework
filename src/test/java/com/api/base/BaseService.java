@@ -26,4 +26,14 @@ public class BaseService { // wrapper for rest Assured
 
 	}
 	
+	protected Response getRequest(String endpoint) {
+		
+		return requestSpecification.get(endpoint);
+
+	}
+	
+	protected void setAuthToken(String token) {
+		requestSpecification.header("Authorization", "Bearer "+token);
+	}
+	
 }

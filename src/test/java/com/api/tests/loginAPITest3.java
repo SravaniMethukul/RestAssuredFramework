@@ -33,6 +33,4 @@ public class loginAPITest3 {
 		Assert.assertTrue(loginresponse.getToken() != null);
 		Assert.assertEquals(loginresponse.getId(), 1537, "Id is not equal");
 	}
-	
-	
 }
