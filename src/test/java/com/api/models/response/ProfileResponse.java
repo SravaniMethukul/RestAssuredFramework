@@ -1,6 +1,6 @@
 package com.api.models.response;
 
-public class UserProfileResponse {
+public class ProfileResponse {
 	private String id;
 	private String username;
 	private String email;
@@ -8,11 +8,12 @@ public class UserProfileResponse {
 	private String lastName;
 	private String mobileNumber;
 	
-	public UserProfileResponse() {
+	// should have default constructor due to jack son binding
+	public ProfileResponse() {
 		
 	}
 	
-	public UserProfileResponse(String id, String username, String email, String firstName, String lastName,
+	public ProfileResponse(String id, String username, String email, String firstName, String lastName,
 			String mobileNumber) {
 		super();
 		this.id = id;

@@ -36,4 +36,10 @@ public class BaseService { // wrapper for rest Assured
 		requestSpecification.header("Authorization", "Bearer "+token);
 	}
 	
+	protected Response putRequest(Object payload, String endpoint) {
+		
+		return requestSpecification.contentType(ContentType.JSON).body(payload).put(endpoint);
+
+	}
+	
 }
