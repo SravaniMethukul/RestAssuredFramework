@@ -7,7 +7,7 @@ import io.restassured.RestAssured;
 import io.restassured.response.Response;
 import io.restassured.specification.RequestSpecification;
 
-public class loginAPITest1 {
+public class LoginAPITest1 {
 
 	@Test(description="Verify if login Api is working correctly")
 	public void loginTest() {

@@ -7,7 +7,7 @@ import org.testng.annotations.Test;
 
 import io.restassured.response.Response;
 
-public class loginAPITest2 {
+public class LoginAPITest2 {
 	@Test(description="Verify if login Api is working correctly")
 	public void loginTest() {
 
