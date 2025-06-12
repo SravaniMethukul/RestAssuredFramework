@@ -11,7 +11,7 @@ import com.api.models.response.LoginResponse;
 import io.restassured.response.Response;
 
 @Listeners(com.api.listeners.TestListener.class)
-public class loginAPITest3 {
+public class LoginAPITest3 {
 
 	@Test(description = "Verify if login Api is working correctly")
 	public void loginTest() {
