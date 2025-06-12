@@ -9,7 +9,7 @@ public class SignUpRequest {
 	private String lastName;
 	private String mobileNumber;
 	
-	public SignUpRequest(String username, String password, String email, String firstName, String lastName,
+	private SignUpRequest(String username, String password, String email, String firstName, String lastName,
 			String mobileNumber) {
 		super();
 		this.username = username;
@@ -74,7 +74,7 @@ public class SignUpRequest {
 		this.mobileNumber = mobileNumber;
 	}
 	
-	// Builder Design Pattern
+	// Builder Design Pattern (inner class)
 	public static class Builder{
 		private String username;
 		private String password;

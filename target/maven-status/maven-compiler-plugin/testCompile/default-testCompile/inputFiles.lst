@@ -1,0 +1,17 @@
+P:\eclipse-workspace\APIAutomationFramework\src\test\java\com\api\base\AuthService.java
+P:\eclipse-workspace\APIAutomationFramework\src\test\java\com\api\base\BaseService.java
+P:\eclipse-workspace\APIAutomationFramework\src\test\java\com\api\base\UserManagementService.java
+P:\eclipse-workspace\APIAutomationFramework\src\test\java\com\api\filters\LoggingFilter.java
+P:\eclipse-workspace\APIAutomationFramework\src\test\java\com\api\listeners\TestListener.java
+P:\eclipse-workspace\APIAutomationFramework\src\test\java\com\api\models\request\LoginRequest.java
+P:\eclipse-workspace\APIAutomationFramework\src\test\java\com\api\models\request\ProfileRequest.java
+P:\eclipse-workspace\APIAutomationFramework\src\test\java\com\api\models\request\SignUpRequest.java
+P:\eclipse-workspace\APIAutomationFramework\src\test\java\com\api\models\response\LoginResponse.java
+P:\eclipse-workspace\APIAutomationFramework\src\test\java\com\api\models\response\ProfileResponse.java
+P:\eclipse-workspace\APIAutomationFramework\src\test\java\com\api\tests\AccountCreationTest.java
+P:\eclipse-workspace\APIAutomationFramework\src\test\java\com\api\tests\ForgotPasswordTest.java
+P:\eclipse-workspace\APIAutomationFramework\src\test\java\com\api\tests\GetProfileRequestTest.java
+P:\eclipse-workspace\APIAutomationFramework\src\test\java\com\api\tests\loginAPITest1.java
+P:\eclipse-workspace\APIAutomationFramework\src\test\java\com\api\tests\loginAPITest2.java
+P:\eclipse-workspace\APIAutomationFramework\src\test\java\com\api\tests\loginAPITest3.java
+P:\eclipse-workspace\APIAutomationFramework\src\test\java\com\api\tests\UpdateProfileTest.java

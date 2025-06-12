@@ -1,0 +1,39 @@
+13:17:10.145 [main] INFO  com.api.listeners.TestListener - Test Suite Started
+13:17:10.203 [main] INFO  com.api.listeners.TestListener - Test Started: loginTest
+13:17:10.204 [main] INFO  com.api.listeners.TestListener - Description: Verify if login Api is working correctly
+13:17:13.012 [main] INFO  com.api.listeners.TestListener - Passed: loginTest
+13:17:13.013 [main] INFO  com.api.listeners.TestListener - Description: Verify if login Api is working correctly
+13:17:13.057 [main] INFO  com.api.listeners.TestListener - Test Suite Completed
+14:08:06.520 [main] INFO  com.api.listeners.TestListener - Test Suite Started
+14:08:06.569 [main] INFO  com.api.listeners.TestListener - Test Started: loginTest
+14:08:06.569 [main] INFO  com.api.listeners.TestListener - Description: Verify if login Api is working correctly
+14:08:08.167 [main] INFO  com.api.filters.LoggingFilter - BASE URI: http://64.227.160.186:8080 Request header: Accept=*/*
+Content-Type=application/json Payload: {"username":"Sravani","password":"Sravani@1410"}
+14:08:08.167 [main] INFO  com.api.filters.LoggingFilter - Base URI: http://64.227.160.186:8080
+14:08:08.168 [main] INFO  com.api.filters.LoggingFilter - Resquest Body: {"username":"Sravani","password":"Sravani@1410"}
+14:08:08.168 [main] INFO  com.api.filters.LoggingFilter - Resquest Header: Accept=*/*
+Content-Type=application/json
+14:08:09.172 [main] INFO  com.api.filters.LoggingFilter - Status code: 200
+14:08:09.172 [main] INFO  com.api.filters.LoggingFilter - Response Body: io.restassured.internal.RestAssuredResponseImpl@3d620a1
+14:08:09.172 [main] INFO  com.api.filters.LoggingFilter - Response Header: Vary=Origin
+Vary=Access-Control-Request-Method
+Vary=Access-Control-Request-Headers
+Access-Control-Allow-Origin=https://swift.techwithjatin.com
+Access-Control-Allow-Methods=GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Max-Age=3600
+Access-Control-Allow-Headers=Authorization, Content-Type, Accept
+Access-Control-Allow-Credentials=true
+X-Content-Type-Options=nosniff
+X-XSS-Protection=0
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+X-Frame-Options=DENY
+Content-Type=application/json
+Transfer-Encoding=chunked
+Date=Thu, 12 Jun 2025 12:08:08 GMT
+Keep-Alive=timeout=60
+Connection=keep-alive
+14:08:09.271 [main] INFO  com.api.listeners.TestListener - Passed: loginTest
+14:08:09.271 [main] INFO  com.api.listeners.TestListener - Description: Verify if login Api is working correctly
+14:08:09.317 [main] INFO  com.api.listeners.TestListener - Test Suite Completed

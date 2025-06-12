@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
-  <test thread-count="5" name="Default test(failed)">
+<suite name="API Test Suite">
+  <test thread-count="5" name="API Test">
     <classes>
-      <class name="com.api.tests.UpdateProfileTest">
+      <class name="com.api.tests.LoginAPITest3">
         <methods>
-          <include name="updateProfileInfo"/>
+          <include name="loginAPITest3"/>
         </methods>
       </class> <!-- com.api.tests.UpdateProfileTest -->
     </classes>
