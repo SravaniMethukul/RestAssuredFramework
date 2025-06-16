@@ -7,7 +7,7 @@
         <methods>
           <include name="getProfileDetails"/>
         </methods>
-      </class> <!-- com.api.tests.UpdateProfileTest -->
+      </class>
     </classes>
-  </test> <!-- Default test(failed) -->
-</suite> <!-- Failed suite [Default suite] -->
+  </test>
+</suite>
