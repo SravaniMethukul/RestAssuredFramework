@@ -6,7 +6,7 @@ import com.api.base.AuthService;
 
 import io.restassured.response.Response;
 
-public class ForgotPasswordTest {
+public class ForgotPasswordTest extends BaseTest{
 	
 	@Test(description="Verify Forgot password Test")
 	public void checkForgotPassword(){

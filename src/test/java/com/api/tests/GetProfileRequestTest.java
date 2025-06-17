@@ -10,7 +10,7 @@ import com.api.models.response.ProfileResponse;
 
 import io.restassured.response.Response;
 
-public class GetProfileRequestTest {
+public class GetProfileRequestTest extends BaseTest{
 	
 	@Test(description="Get User Profile Details")
 	public void getProfileDetails() {

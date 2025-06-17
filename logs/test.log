@@ -68,3 +68,153 @@ Connection=keep-alive
 14:26:54.034 [main] INFO  com.api.listeners.TestListener - Passed: loginTest
 14:26:54.034 [main] INFO  com.api.listeners.TestListener - Description: Verify if login Api is working correctly
 14:26:54.061 [main] INFO  com.api.listeners.TestListener - Test Suite Completed
+13:58:13.476 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+13:58:13.489 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+13:58:13.492 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:58:13.492 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:58:13.492 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:58:13.493 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:58:13.493 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:58:13.493 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:58:13.494 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:58:13.494 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:58:13.494 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:58:13.495 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:58:13.495 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:58:13.496 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:58:13.496 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:58:13.497 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:58:13.499 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:58:13.500 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:58:13.500 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:58:13.500 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:58:13.506 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:58:13.506 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:58:13.506 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:58:13.507 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:58:13.516 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 7 ms.
+13:58:13.522 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 4 ms.
+13:58:13.524 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:58:13.525 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:58:13.525 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:58:13.525 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:58:13.536 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\methu\AppData\Local\Temp\testng-eclipse-250630419\testng-customsuite.xml
+
+13:58:13.552 [main] INFO  com.api.listeners.TestListener - Test Suite Started
+13:58:13.565 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+13:58:13.596 [main] INFO  com.api.listeners.TestListener - Test Started: loginTest
+13:58:13.596 [main] INFO  com.api.listeners.TestListener - Description: Verify if login Api is working correctly
+13:58:29.197 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  P:\eclipse-workspace\APIAutomationFramework\suite.xml
+
+13:58:30.900 [main] INFO  com.api.filters.LoggingFilter - Base URI: http://64.227.160.186:8080
+13:58:30.900 [main] INFO  com.api.filters.LoggingFilter - Resquest Body: {"username":"Sravani","password":"Sravani@1410"}
+13:58:30.900 [main] INFO  com.api.filters.LoggingFilter - Resquest Header: Accept=*/*
+Content-Type=application/json
+14:00:02.913 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  P:\eclipse-workspace\APIAutomationFramework\suite.xml
+
+14:00:04.335 [main] INFO  com.api.filters.LoggingFilter - Base URI: http://64.227.160.186:8080
+14:00:04.335 [main] INFO  com.api.filters.LoggingFilter - Resquest Body: {"username":"Sravani","password":"Sravani@1410"}
+14:00:04.336 [main] INFO  com.api.filters.LoggingFilter - Resquest Header: Accept=*/*
+Content-Type=application/json
+14:01:53.133 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  P:\eclipse-workspace\APIAutomationFramework\suite.xml
+
+14:01:53.164 [main] INFO  com.api.listeners.TestListener - Test Suite Started
+14:01:53.207 [main] INFO  com.api.listeners.TestListener - Test Started: loginTest
+14:01:53.208 [main] INFO  com.api.listeners.TestListener - Description: Verify if login Api is working correctly
+14:01:54.674 [main] INFO  com.api.filters.LoggingFilter - Base URI: http://64.227.160.186:8080
+14:01:54.674 [main] INFO  com.api.filters.LoggingFilter - Resquest Body: {"username":"Sravani","password":"Sravani@1410"}
+14:01:54.674 [main] INFO  com.api.filters.LoggingFilter - Resquest Header: Accept=*/*
+Content-Type=application/json
+14:01:54.692 [main] ERROR com.api.listeners.TestListener - Failed: loginTest
+14:01:54.744 [main] INFO  com.api.listeners.TestListener - Test Suite Completed
+14:04:10.398 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  P:\eclipse-workspace\APIAutomationFramework\suite.xml
+
+14:04:10.425 [main] INFO  com.api.listeners.TestListener - Test Suite Started
+14:04:10.859 [main] INFO  com.api.listeners.TestListener - Test Started: loginTest
+14:04:10.859 [main] INFO  com.api.listeners.TestListener - Description: Verify if login Api is working correctly
+14:04:12.216 [main] INFO  com.api.filters.LoggingFilter - Base URI: http://64.227.160.186:8080
+14:04:12.216 [main] INFO  com.api.filters.LoggingFilter - Resquest Body: {"username":"Sravani","password":"Sravani@1410"}
+14:04:12.216 [main] INFO  com.api.filters.LoggingFilter - Resquest Header: Accept=*/*
+Content-Type=application/json
+14:04:13.498 [main] INFO  com.api.filters.LoggingFilter - Status code: 200
+14:04:13.498 [main] INFO  com.api.filters.LoggingFilter - Response Body: io.restassured.internal.RestAssuredResponseImpl@1f536481
+14:04:13.498 [main] INFO  com.api.filters.LoggingFilter - Response Header: Vary=Origin
+Vary=Access-Control-Request-Method
+Vary=Access-Control-Request-Headers
+Access-Control-Allow-Origin=https://swift.techwithjatin.com
+Access-Control-Allow-Methods=GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Max-Age=3600
+Access-Control-Allow-Headers=Authorization, Content-Type, Accept
+Access-Control-Allow-Credentials=true
+X-Content-Type-Options=nosniff
+X-XSS-Protection=0
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+X-Frame-Options=DENY
+Content-Type=application/json
+Transfer-Encoding=chunked
+Date=Tue, 17 Jun 2025 12:04:13 GMT
+Keep-Alive=timeout=60
+Connection=keep-alive
+14:04:13.632 [main] INFO  com.api.listeners.TestListener - Passed: loginTest
+14:04:13.633 [main] INFO  com.api.listeners.TestListener - Description: Verify if login Api is working correctly
+14:04:14.062 [main] INFO  com.api.listeners.TestListener - Test Suite Completed
+14:05:34.454 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  P:\eclipse-workspace\APIAutomationFramework\suite.xml
+
+14:05:36.099 [main] INFO  com.api.filters.LoggingFilter - Base URI: http://64.227.160.186:8080
+14:05:36.100 [main] INFO  com.api.filters.LoggingFilter - Resquest Body: {"username":"Sravani","password":"Sravani@1410"}
+14:05:36.100 [main] INFO  com.api.filters.LoggingFilter - Resquest Header: Accept=*/*
+Content-Type=application/json
+14:05:37.122 [main] INFO  com.api.filters.LoggingFilter - Status code: 200
+14:05:37.122 [main] INFO  com.api.filters.LoggingFilter - Response Body: io.restassured.internal.RestAssuredResponseImpl@51cab489
+14:05:37.122 [main] INFO  com.api.filters.LoggingFilter - Response Header: Vary=Origin
+Vary=Access-Control-Request-Method
+Vary=Access-Control-Request-Headers
+Access-Control-Allow-Origin=https://swift.techwithjatin.com
+Access-Control-Allow-Methods=GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Max-Age=3600
+Access-Control-Allow-Headers=Authorization, Content-Type, Accept
+Access-Control-Allow-Credentials=true
+X-Content-Type-Options=nosniff
+X-XSS-Protection=0
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+X-Frame-Options=DENY
+Content-Type=application/json
+Transfer-Encoding=chunked
+Date=Tue, 17 Jun 2025 12:05:37 GMT
+Keep-Alive=timeout=60
+Connection=keep-alive
+14:05:37.222 [main] INFO  com.api.filters.LoggingFilter - Base URI: http://64.227.160.186:8080
+14:05:37.222 [main] INFO  com.api.filters.LoggingFilter - Resquest Body: null
+14:05:37.222 [main] INFO  com.api.filters.LoggingFilter - Resquest Header: Authorization=Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJTcmF2YW5pIiwiaWF0IjoxNzUwMTYxOTM3LCJleHAiOjE3NTAxNjU1Mzd9.CjssdZjblkBZDeTnPLg8SQ1g8qdV16nCL7c4GTlDUn0
+Accept=*/*
+14:05:37.712 [main] INFO  com.api.filters.LoggingFilter - Status code: 200
+14:05:37.713 [main] INFO  com.api.filters.LoggingFilter - Response Body: io.restassured.internal.RestAssuredResponseImpl@3b11620a
+14:05:37.713 [main] INFO  com.api.filters.LoggingFilter - Response Header: Vary=Origin
+Vary=Access-Control-Request-Method
+Vary=Access-Control-Request-Headers
+Access-Control-Allow-Origin=https://swift.techwithjatin.com
+Access-Control-Allow-Methods=GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Max-Age=3600
+Access-Control-Allow-Headers=Authorization, Content-Type, Accept
+Access-Control-Allow-Credentials=true
+X-Content-Type-Options=nosniff
+X-XSS-Protection=0
+Cache-Control=no-cache, no-store, max-age=0, must-revalidate
+Pragma=no-cache
+Expires=0
+X-Frame-Options=DENY
+Content-Type=application/json
+Transfer-Encoding=chunked
+Date=Tue, 17 Jun 2025 12:05:37 GMT
+Keep-Alive=timeout=60
+Connection=keep-alive

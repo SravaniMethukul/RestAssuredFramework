@@ -8,7 +8,7 @@ import com.api.models.request.SignUpRequest;
 
 import io.restassured.response.Response;
 
-public class AccountCreationTest {
+public class AccountCreationTest extends BaseTest{
 	
 	@Test(description="Verify if Account creation is working")
 	public void createAccountTest() {

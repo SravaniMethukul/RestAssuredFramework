@@ -48,5 +48,4 @@ public class BaseService { // wrapper for rest Assured
 		return requestSpecification.contentType(ContentType.JSON).body(payload).put(endpoint);
 
 	}
-	
 }

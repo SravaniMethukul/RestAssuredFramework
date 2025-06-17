@@ -12,7 +12,7 @@ import com.api.models.response.ProfileResponse;
 
 import io.restassured.response.Response;
 
-public class UpdateProfileTest {
+public class UpdateProfileTest extends BaseTest{
 	
 	@Test(description="Verify update profile Info")
 	public void updateProfileInfo() {
