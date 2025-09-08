@@ -7,11 +7,7 @@ public class ProfileRequest {
     private String mobileNumber;
     private String email;
 
-    public ProfileRequest() {
-    	
-    }
-
-    public ProfileRequest(String firstName, String lastName, String mobileNumber, String email) {
+    private ProfileRequest(String firstName, String lastName, String mobileNumber, String email) {
         this.firstName = firstName;
         this.lastName = lastName;
         this.mobileNumber = mobileNumber;
